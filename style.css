@@ -1,6 +1,6 @@
 h1 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: 30px;
     text-align: center;
     font-weight: bold;
     background-color: black;
@@ -10,7 +10,7 @@ h1 {
 li {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
-    text-align: center;
-    color: rgb(240, 233, 233);
-    background-color: black;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    
 }
