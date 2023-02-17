@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    color: rgb(240, 233, 233);
+    background-color: black;
+}
